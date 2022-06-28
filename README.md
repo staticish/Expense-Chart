@@ -1,2 +1,2 @@
-# Expense-Chart
+# ExpenseChart
 Created with CodeSandbox
