@@ -235,11 +235,12 @@
   .hide {
     display: none;
   }
-  .bar:hover {
+  .bar:hover, .bar:active {
     cursor: pointer;
     opacity: 0.8;
   }
-  /* try to fix this shit */
+
+  
   .bar:hover .hide {
     background: rgba(59, 35, 22, 255);
     display: block;
