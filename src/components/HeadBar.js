@@ -6,7 +6,7 @@ export default function HeadBar() {
       <div className="headbar">
         <div className="headbar--title">
           <h4>My balance </h4>
-          <h1> ${Math.floor(Math.random() * 1001)} 22</h1>
+          <h1> ${Math.floor(Math.random() * 1001)}</h1>
         </div>
         <div className="logo">
           <svg
